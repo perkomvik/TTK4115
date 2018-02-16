@@ -1,2 +1,2 @@
-# TTK4115 - Helicopter Lab
+# TTK4115 - Helicopter & Boat Lab
 See pdf for details
