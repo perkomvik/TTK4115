@@ -1,2 +1,2 @@
 # TTK4115 - Helicopter & Boat Lab
-See pdf for details
+Two project reports for labs in TTK4115 - Linear systems theory.
